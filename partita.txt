@@ -1,0 +1,7 @@
+
+nome giocatore 1 : Denis
+nome giocatore 2 : Luca
+posiz. giocatore 1 : 61
+posiz. giocatore 2 : 62
+saldo 1 : 18
+saldo 2 : 16
